@@ -1,6 +1,5 @@
-import requests
 from bs4 import BeautifulSoup
-import metro as markup
+import metro as m
 import onibus as o
 
-print(f.montar_txt())
+print(m.montar_txt())
